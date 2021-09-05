@@ -1,0 +1,19 @@
+c:\users\italo.silva\documents\visual studio 2015\Projects\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\bin\Debug\ComputadoresMarcosTrajano.exe.config
+C:\Users\italo.silva\Documents\Visual Studio 2015\Projects\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\bin\Debug\ComputadoresMarcosTrajano.exe
+C:\Users\italo.silva\Documents\Visual Studio 2015\Projects\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\bin\Debug\ComputadoresMarcosTrajano.pdb
+C:\Users\italo.silva\Documents\Visual Studio 2015\Projects\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\obj\Debug\ComputadoresMarcosTrajano.csprojResolveAssemblyReference.cache
+C:\Users\italo.silva\Documents\Visual Studio 2015\Projects\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\obj\Debug\ComputadoresMarcosTrajano.Form1.resources
+C:\Users\italo.silva\Documents\Visual Studio 2015\Projects\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\obj\Debug\ComputadoresMarcosTrajano.Properties.Resources.resources
+C:\Users\italo.silva\Documents\Visual Studio 2015\Projects\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\obj\Debug\ComputadoresMarcosTrajano.csproj.GenerateResource.Cache
+C:\Users\italo.silva\Documents\Visual Studio 2015\Projects\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\obj\Debug\ComputadoresMarcosTrajano.exe
+C:\Users\italo.silva\Documents\Visual Studio 2015\Projects\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\obj\Debug\ComputadoresMarcosTrajano.pdb
+C:\Users\JÚNIOR\Desktop\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\bin\Debug\ComputadoresMarcosTrajano.exe.config
+C:\Users\JÚNIOR\Desktop\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\bin\Debug\ComputadoresMarcosTrajano.exe
+C:\Users\JÚNIOR\Desktop\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\bin\Debug\ComputadoresMarcosTrajano.pdb
+C:\Users\JÚNIOR\Desktop\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\obj\Debug\ComputadoresMarcosTrajano.csprojAssemblyReference.cache
+C:\Users\JÚNIOR\Desktop\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\obj\Debug\ComputadoresMarcosTrajano.Form1.resources
+C:\Users\JÚNIOR\Desktop\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\obj\Debug\ComputadoresMarcosTrajano.Properties.Resources.resources
+C:\Users\JÚNIOR\Desktop\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\obj\Debug\ComputadoresMarcosTrajano.csproj.GenerateResource.cache
+C:\Users\JÚNIOR\Desktop\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\obj\Debug\ComputadoresMarcosTrajano.csproj.CoreCompileInputs.cache
+C:\Users\JÚNIOR\Desktop\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\obj\Debug\ComputadoresMarcosTrajano.exe
+C:\Users\JÚNIOR\Desktop\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\ComputadoresMarcosTrajano\obj\Debug\ComputadoresMarcosTrajano.pdb
